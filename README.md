@@ -12,7 +12,7 @@ Mi enfoque durante mis proyectos académicos siempre ha sido buscar la excelenci
 
 <img align="right" height="450px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami24-dev&theme=holi&layout=compact&langs_count=9" />
 
-#### Pila Principal:
+#### Pila Principal :
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -34,8 +34,22 @@ Mi enfoque durante mis proyectos académicos siempre ha sido buscar la excelenci
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
 
 <br>
+<br>
+<br>
+<br>
 
-## Análisis de GitHub 🚀
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"/>Para obtener más información, consulte o conécteme a través de</h2> 
+<p align="center">
+  <a href="mailto:samirgm24@gmail.com" >
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samirgm-front-end/" target="_blank">
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+<p> 
 
-
+<div align="center">
+  :heart_eyes: ¡Gracias por ver mi perfil! ¡Que tenga un lindo día! :wink: <br/>
+  &copy; 2024 sami24
+</div>
 
