@@ -10,7 +10,7 @@ Mi enfoque durante mis proyectos académicos siempre ha sido buscar la excelenci
 
 ## Lenguajes & Herramientas
 
-<img align="right" height="450px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami24-dev&theme=holi&layout=compact&langs_count=9" />
+<img align="right" height="350px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami24-dev&theme=holi&layout=compact&langs_count=9" />
 
 #### Pila Principal :
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
