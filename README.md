@@ -4,7 +4,7 @@
 
 Soy un entusiasta desarrollador web con una sólida base académica y experiencia en proyectos web. Durante mi tiempo wn la academia, me sumergí en el mundo del desarrollo web, explorando diferentes tecnologías y metodologías para crear experiencias digitales innovadoras.
 
-Mi punto fuerte es mi capacidad para crear sitios web accesibles. Me enorgullezco de mi reputación en la comunidad al crear sitios web receptivos y accesiblesMi punto fuerte es mi capacidad para crear sitios web accesibles.
+Mi punto fuerte es mi capacidad para crear sitios web accesibles. Me enorgullezco de mi reputación en la comunidad al crear sitios web receptivos y accesibles.
 
 Mi enfoque durante mis proyectos académicos siempre ha sido buscar la excelencia técnica y la innovación, buscando constantemente formas de mejorar y optimizar mis habilidades de desarrollo web. Estoy emocionado de seguir aprendiendo y creciendo en este campo en constante evolución. :wink:
 
