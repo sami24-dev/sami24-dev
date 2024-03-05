@@ -2,7 +2,7 @@
 
 ## Cuéntame un poco sobre ti :sunglasses:
 
-Soy un entusiasta desarrollador web con una sólida base académica y experiencia en proyectos digitales. Durante mi tiempo en la universidad, me sumergí en el mundo del desarrollo web, explorando diferentes tecnologías y metodologías para crear experiencias digitales innovadoras.
+Soy un entusiasta desarrollador web con una sólida base académica y experiencia en proyectos digitales. Durante mi tiempo wn la academia, me sumergí en el mundo del desarrollo web, explorando diferentes tecnologías y metodologías para crear experiencias digitales innovadoras.
 
 Mi punto fuerte es mi capacidad para crear sitios web accesibles. Me enorgullezco de mi reputación en la comunidad al crear sitios web receptivos y accesiblesMi punto fuerte es mi capacidad para crear sitios web accesibles. Me enorgullezco de mi reputación en la comunidad al crear sitios web receptivos y accesibles.
 
