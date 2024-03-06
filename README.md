@@ -1,8 +1,8 @@
-<h1 align="center">Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy <a href="">Samir Gonzalez</a></h1>
+<h1 align="center">Saludos, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy <a href="">Samir Gonzalez</a></h1>
 
 ## Cuéntame un poco sobre ti :sunglasses:
 
-Soy un entusiasta desarrollador web con una sólida base académica y experiencia en proyectos web. Durante mi tiempo wn la academia, me sumergí en el mundo del desarrollo web, explorando diferentes tecnologías y metodologías para crear experiencias digitales innovadoras.
+Soy un entusiasta desarrollador web con una sólida base académica y experiencia en proyectos web. Durante mi tiempo en la academia, me sumergí en el mundo del desarrollo web, explorando diferentes tecnologías y metodologías para crear experiencias digitales innovadoras.
 
 Mi punto fuerte es mi capacidad para crear sitios web accesibles. Me enorgullezco de mi reputación en la comunidad al crear sitios web receptivos y accesibles.
 
@@ -49,7 +49,8 @@ Mi enfoque durante mis proyectos académicos siempre ha sido buscar la excelenci
 <p> 
 
 <div align="center">
-  :heart_eyes: ¡Gracias por ver mi perfil! ¡Que tenga un lindo día! :wink: <br/>
+  :heart_eyes: ¡Gracias por ver mi perfil! ¡Que tenga un lindo día! :wink: 
+  
   &copy; 2024 sami24-dev
 </div>
 
