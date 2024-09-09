@@ -50,7 +50,7 @@ Mi enfoque durante mis proyectos académicos siempre ha sido buscar la excelenci
 <p> 
 
 <div align="center">
-  :heart_eyes: ¡Gracias por ver mi perfil! ¡Que tenga un lindo día! :wink: 
+  😎 ¡Gracias por ver mi perfil! ¡Que tenga un lindo día! :wink: 
   
   &copy; 2024 sami24-dev
 </div>
